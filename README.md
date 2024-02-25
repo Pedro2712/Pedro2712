@@ -19,3 +19,8 @@ Here are some ideas to get you started:
     <img src="https://github-readme-stats.vercel.app/api?username=Pedro2712&show_icons=true&theme=tokyonight" width=500  alt="stats graph"/>
 </div>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=Pedro2712)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Pedro2712&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+https://github-profile-trophy.vercel.app/?username=Pedro2712&theme=dracula
