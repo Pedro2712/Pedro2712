@@ -109,8 +109,8 @@ Sou um apaixonado por Data Science, com um background sólido em Economia e expe
 ### 📊 Estatísticas do GitHub:
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Peedro2712&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Peedro2712&layout=compact&langs_count=8&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pedro2712&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro2712&layout=compact&langs_count=8&theme=radical"/>
 </div>
 
 ### ⚡ Tecnologias e Ferramentas:
