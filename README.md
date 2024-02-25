@@ -77,3 +77,66 @@ https://github-profile-trophy.vercel.app/?username=Pedro2712&theme=dracula
     <img src="https://github-profile-trophy.vercel.app/?username=Pedro2712&theme=algolia" alt="GitHub Profile Trophy"/>
 </div>
 
+# TESTES TESTES
+
+<div align="center">
+  <h2>👋 Olá, eu sou [Seu Nome]!</h2>
+  <h3>📊 Data Scientist in Progress | 🐍 Python Enthusiast | 🚀 Tech Explorer</h3>
+</div>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/seulinkedin/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin"></a>
+  <a href="mailto:seuemail@example.com"><img alt="Email" src="https://img.shields.io/badge/Email-red?style=flat-square&logo=gmail&logoColor=white"></a>
+</p>
+
+<div align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=seuusername&theme=xcode" alt="Gráfico de Contribuição" />
+</div>
+
+---
+
+### 🧐 Sobre Mim:
+Sou um apaixonado por Data Science, com um background sólido em Economia e experiência como Business Analyst. Atualmente, estou em uma jornada para aprofundar minhas habilidades em análise de dados e machine learning, visando transformar dados complexos em insights poderosos.
+
+- 🔭 Atualmente estou trabalhando em projetos pessoais de Data Science.
+- 🌱 Aprendendo mais sobre algoritmos avançados de machine learning e técnicas de deep learning.
+- 👯 Busco colaborar em projetos de open source relacionados a ciência de dados.
+- 💬 Pergunte-me sobre Python, análise de dados, visualizações de dados e qualquer coisa relacionada a tech!
+- 📫 Como me alcançar: [seuemail@example.com](mailto:seuemail@example.com).
+- 😄 Pronomes: Ele/Dele.
+- ⚡ Fato divertido: Sou um grande fã de jogos de estratégia e puzzles.
+
+### 📊 Estatísticas do GitHub:
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=seuusername&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seuusername&layout=compact&langs_count=8&theme=radical"/>
+</div>
+
+### ⚡ Tecnologias e Ferramentas:
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=Pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=NumPy&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/-ScikitLearn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white)
+![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+
+### 📈 Atividades Recentes:
+
+<!--START_SECTION:activity-->
+1. 🎉 Merged PR [#1](#) in [seuprojeto](#)
+2. 🗣 Commented on [#2](#) in [outroprojeto](#)
+3. 💪 Opened issue [#3](#) in [maisumprojeto](#)
+<!--END_SECTION:activity-->
+
+---
+
+<div align="center">
+  <b>💡 Pronto para transformar dados em insights poderosos e impulsionar a tomada de decisões baseada em dados!</b>
+</div>
+
+# TESTES TESTES
