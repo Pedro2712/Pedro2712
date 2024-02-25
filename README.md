@@ -80,17 +80,17 @@ https://github-profile-trophy.vercel.app/?username=Pedro2712&theme=dracula
 # TESTES TESTES
 
 <div align="center">
-  <h2>👋 Olá, eu sou [Seu Nome]!</h2>
+  <h2>👋 Olá, eu sou Pedro Henrique Britto Aragão Andrade!</h2>
   <h3>📊 Data Scientist in Progress | 🐍 Python Enthusiast | 🚀 Tech Explorer</h3>
 </div>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/seulinkedin/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin"></a>
-  <a href="mailto:seuemail@example.com"><img alt="Email" src="https://img.shields.io/badge/Email-red?style=flat-square&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/pedro-henrique-andrade-124357207/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin"></a>
+  <a href="pedroa3@al.insper.edu.br"><img alt="Email" src="https://img.shields.io/badge/Email-red?style=flat-square&logo=gmail&logoColor=white"></a>
 </p>
 
 <div align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=seuusername&theme=xcode" alt="Gráfico de Contribuição" />
+  <img src="https://activity-graph.herokuapp.com/graph?username=Pedro2712&theme=xcode" alt="Gráfico de Contribuição" />
 </div>
 
 ---
@@ -102,15 +102,15 @@ Sou um apaixonado por Data Science, com um background sólido em Economia e expe
 - 🌱 Aprendendo mais sobre algoritmos avançados de machine learning e técnicas de deep learning.
 - 👯 Busco colaborar em projetos de open source relacionados a ciência de dados.
 - 💬 Pergunte-me sobre Python, análise de dados, visualizações de dados e qualquer coisa relacionada a tech!
-- 📫 Como me alcançar: [seuemail@example.com](mailto:seuemail@example.com).
+- 📫 Como me alcançar: [seuemail@example.com](mailto:pedroa3@al.insper.edu.br).
 - 😄 Pronomes: Ele/Dele.
 - ⚡ Fato divertido: Sou um grande fã de jogos de estratégia e puzzles.
 
 ### 📊 Estatísticas do GitHub:
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=seuusername&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seuusername&layout=compact&langs_count=8&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Peedro2712&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Peedro2712&layout=compact&langs_count=8&theme=radical"/>
 </div>
 
 ### ⚡ Tecnologias e Ferramentas:
