@@ -51,3 +51,29 @@ https://github-profile-trophy.vercel.app/?username=Pedro2712&theme=dracula
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Pedro2712&theme=light" alt="WakaTime Stats"/>
 </div>
 
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white)
+
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=Pedro2712&show_icons=true&theme=radical" alt="Seu GitHub Stats"/>
+</div>
+
+
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro2712&layout=compact&theme=vision-friendly-dark" alt="Top Languages"/>
+</div>
+
+<div align="center">
+    <img src="https://komarev.com/ghpvc/?username=Pedro27121&color=green" alt="Profile views"/>
+</div>
+
+<div align="center">
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dynamic Quote"/>
+</div>
+
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=Pedro2712&show_icons=true&theme=vue-dark" alt="GitHub Stats"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pedro2712&theme=dark" alt="GitHub Streak Stats"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=Pedro2712&theme=algolia" alt="GitHub Profile Trophy"/>
+</div>
+
