@@ -59,6 +59,8 @@ https://github-profile-trophy.vercel.app/?username=Pedro2712&theme=dracula
     <img src="[[https://github-readme-stats.vercel.app/api/wakatime?username=Pedro2712&theme=light](https://wakatime.com/badge/user/018dddfb-f20d-4f44-9279-1ba6a5fcde54/project/018de31a-4a19-4739-9a17-1c36ecf8202b.svg)](https://wakatime.com/share/@018dddfb-f20d-4f44-9279-1ba6a5fcde54/3d2a695d-7e82-4006-9f1f-35db5cf3f7f2.svg)" alt="WakaTime Stats"/>
 </div>
 
+[![wakatime](https://wakatime.com/badge/user/018dddfb-f20d-4f44-9279-1ba6a5fcde54.svg)](https://wakatime.com/@018dddfb-f20d-4f44-9279-1ba6a5fcde54)
+
 <figure><embed src="https://wakatime.com/share/@018dddfb-f20d-4f44-9279-1ba6a5fcde54/3d2a695d-7e82-4006-9f1f-35db5cf3f7f2.svg"></embed></figure>
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
