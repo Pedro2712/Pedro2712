@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <div align="center">
   <br/>
-  <img src="https://komarev.com/ghpvc/?username=leticiacb1&style=for-the-badge">
+  <img src="https://komarev.com/ghpvc/?username=Pedro2712&style=for-the-badge">
 </div>
             
 <!-- Footer -->
