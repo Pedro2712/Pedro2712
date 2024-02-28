@@ -16,6 +16,14 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
+  <br/>
+  <img src="https://komarev.com/ghpvc/?username=leticiacb1&style=for-the-badge">
+</div>
+            
+<!-- Footer -->
+<br>
+
+<div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=Pedro2712&show_icons=true&theme=tokyonight" width=500  alt="stats graph"/>
 </div>
 
