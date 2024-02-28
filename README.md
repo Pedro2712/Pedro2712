@@ -152,3 +152,5 @@ Sou um apaixonado por Data Science, com um background sólido em Economia e expe
 </div>
 
 # TESTES TESTES
+
+![Snake animation](https://github.com/renatex333/renatex333/blob/output/github-contribution-grid-snake.svg)
