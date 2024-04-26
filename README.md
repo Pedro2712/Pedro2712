@@ -1,5 +1,4 @@
 ### Hi there 👋
-![snake gif](https://github.com/Pedro2712/Pedro2712/blob/output/github-contribution-grid-snake.svg)
 
 <!--
 **Pedro2712/Pedro2712** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -162,4 +161,4 @@ Sou um apaixonado por Data Science, com um background sólido em Economia e expe
 
 # TESTES TESTES
 
-![snake gif](https://github.com/Pedro2712/Pedro2712/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/Pedro2712/Pedro2712/blob/output/github-contribution-grid-snake.svg)
