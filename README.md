@@ -1,24 +1,13 @@
-### Hi there 👋
+### Hi there 👋<div align="center"> <img src="https://komarev.com/ghpvc/?username=Pedro2712&style=for-the-badge">
 
 <br/>
-  <p align="center">
-    <img height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=Pedro2712&hide_border=true&theme=dark" />
-  </p>
-    <p align="center">
-      <img height="137px" src="https://github-readme-stats.vercel.app/api?username=Pedro2712&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=dark" /> <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro2712&hide_border=true&hide=jupyter%20notebook,html,css&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=dark" />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pedro2712&theme=dark" alt="GitHub Streak Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Pedro2712&show_icons=true&theme=dark" alt="GitHub Stats"/>
 </p>
 
 
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Pedro2712&show_icons=true" width=500  alt="github stats graph"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro2712&hide=ShaderLab&hide_title=true&hide_border=true&layout=compact&langs_count=8" width=500 alt="most used languages stats" >
-</div>
 
-<div align="center">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pedro2712"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pedro2712&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro2712&layout=compact&langs_count=8"/>
-</div>
 <!--
 **Pedro2712/Pedro2712** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -36,18 +25,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<div align="center">
-  <br/>
-  <img src="https://komarev.com/ghpvc/?username=Pedro2712&style=for-the-badge">
-</div>
             
 <!-- Footer -->
-<br>
-
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Pedro2712&show_icons=true&theme=tokyonight" width=500  alt="stats graph"/>
-</div>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Pedro2712)](https://github.com/ryo-ma/github-profile-trophy)
 
