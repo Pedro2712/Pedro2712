@@ -161,4 +161,4 @@ Sou um apaixonado por Data Science, com um background sólido em Economia e expe
 
 # TESTES TESTES
 
-![Snake animation](https://github.com/Pedro2712/Pedro2712/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Pedro2712/Pedro2712/blob/main/.github/workflows/snake.yml)
