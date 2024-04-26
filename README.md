@@ -12,11 +12,6 @@
   </a>
 </p>
 
-
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro2712&layout=compact&theme=dark" alt="Linguagens Mais Usadas"/>
-</div>
-
 <div align="center">
     <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dynamic Quote"/>
 </div>
