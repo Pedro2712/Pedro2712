@@ -1,4 +1,14 @@
 ### Hi there 👋
+
+<br/>
+  <p align="center">
+    <img height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=Pedro2712&hide_border=true&theme=dark" />
+  </p>
+    <p align="center">
+      <img height="137px" src="https://github-readme-stats.vercel.app/api?username=Pedro2712&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=dark" /> <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro2712&hide_border=true&hide=jupyter%20notebook,html,css&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=dark" />
+</p>
+
+
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=Pedro2712&show_icons=true" width=500  alt="github stats graph"/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro2712&hide=ShaderLab&hide_title=true&hide_border=true&layout=compact&langs_count=8" width=500 alt="most used languages stats" >
@@ -55,7 +65,7 @@ https://github-profile-trophy.vercel.app/?username=Pedro2712&theme=dracula
 </div>
 
 <div align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pedro2712&theme=dark" alt="GitHub Streak"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pedro2712&hide_border=true&theme=dark" alt="GitHub Streak"/>
 </div>
 
 <div align="center">
