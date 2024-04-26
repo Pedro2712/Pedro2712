@@ -6,7 +6,20 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Pedro2712&show_icons=true&theme=dark" alt="GitHub Stats"/>
 </p>
 
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Pedro2712&theme=onedark&row=2&column=4" alt="GitHub Profile Trophy"/>
+  </a>
+</p>
 
+
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro2712&layout=compact&theme=dark" alt="Linguagens Mais Usadas"/>
+</div>
+
+<div align="center">
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dynamic Quote"/>
+</div>
 
 <!--
 **Pedro2712/Pedro2712** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -27,76 +40,6 @@ Here are some ideas to get you started:
 -->
             
 <!-- Footer -->
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Pedro2712)](https://github.com/ryo-ma/github-profile-trophy)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Pedro2712&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
-https://github-profile-trophy.vercel.app/?username=Pedro2712&theme=dracula
-
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Pedro2712&show_icons=true&theme=algolia" alt="Seus GitHub Stats"/>
-</div>
-
-
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro2712&layout=compact&theme=vision-friendly-dark" alt="Linguagens Mais Usadas"/>
-</div>
-
-<div align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pedro2712&hide_border=true&theme=dark" alt="GitHub Streak"/>
-</div>
-
-<div align="center">
-    <img src="https://activity-graph.herokuapp.com/graph?username=Pedro2712&theme=xcode" alt="Gráfico de Contribuição"/>
-</div>
-
-
-<div align="center">
-    <img src="https://komarev.com/ghpvc/?username=Pedro2712&color=blueviolet" alt="Número de Visitantes"/>
-</div>
-
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Pedro2712&theme=light" alt="WakaTime Stats"/>
-</div>
-
-<div align="center">
-    <img src="[https://github-readme-stats.vercel.app/api/wakatime?username=Pedro2712&theme=light](https://wakatime.com/badge/user/018dddfb-f20d-4f44-9279-1ba6a5fcde54/project/018de31a-4a19-4739-9a17-1c36ecf8202b.svg)" alt="WakaTime Stats"/>
-</div>
-
-<div align="center">
-    <img src="[[https://github-readme-stats.vercel.app/api/wakatime?username=Pedro2712&theme=light](https://wakatime.com/badge/user/018dddfb-f20d-4f44-9279-1ba6a5fcde54/project/018de31a-4a19-4739-9a17-1c36ecf8202b.svg)](https://wakatime.com/share/@018dddfb-f20d-4f44-9279-1ba6a5fcde54/3d2a695d-7e82-4006-9f1f-35db5cf3f7f2.svg)" alt="WakaTime Stats"/>
-</div>
-
-[![wakatime](https://wakatime.com/badge/user/018dddfb-f20d-4f44-9279-1ba6a5fcde54.svg)](https://wakatime.com/@018dddfb-f20d-4f44-9279-1ba6a5fcde54)
-
-<figure><embed src="https://wakatime.com/share/@018dddfb-f20d-4f44-9279-1ba6a5fcde54/3d2a695d-7e82-4006-9f1f-35db5cf3f7f2.svg"></embed></figure>
-
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white)
-
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Pedro2712&show_icons=true&theme=radical" alt="Seu GitHub Stats"/>
-</div>
-
-
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro2712&layout=compact&theme=vision-friendly-dark" alt="Top Languages"/>
-</div>
-
-<div align="center">
-    <img src="https://komarev.com/ghpvc/?username=Pedro27121&color=green" alt="Profile views"/>
-</div>
-
-<div align="center">
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dynamic Quote"/>
-</div>
-
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Pedro2712&show_icons=true&theme=vue-dark" alt="GitHub Stats"/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pedro2712&theme=dark" alt="GitHub Streak Stats"/>
-    <img src="https://github-profile-trophy.vercel.app/?username=Pedro2712&theme=algolia" alt="GitHub Profile Trophy"/>
-</div>
 
 # TESTES TESTES
 
