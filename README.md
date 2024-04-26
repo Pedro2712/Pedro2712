@@ -1,5 +1,8 @@
 ### Hi there 👋
-
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=Pedro2712&show_icons=true" width=500  alt="github stats graph"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro2712&hide=ShaderLab&hide_title=true&hide_border=true&layout=compact&langs_count=8" width=500 alt="most used languages stats" >
+</div>
 <!--
 **Pedro2712/Pedro2712** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
