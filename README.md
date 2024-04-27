@@ -74,7 +74,7 @@ I am passionate about Computer Engineering, with a solid background in technolog
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Pedro2712&theme=onedark&row=2&column=4" alt="GitHub Profile Trophy"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=Pedro2712&theme=onedark&row=2&column=5" alt="GitHub Profile Trophy"/>
   </a>
 </p>
 
