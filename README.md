@@ -1,6 +1,5 @@
-![Image](https://github.com/Pedro2712/Pedro2712/blob/main/image.webp)
-
 # Hi! 👋 I'm Pedro, a Computer Engineering Student at INSPER
+![Image](https://github.com/Pedro2712/Pedro2712/blob/main/image.webp)
 <p align="center">
   <a href="https://www.linkedin.com/in/pedro-henrique-andrade-124357207/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin"></a>
   <a href="mailto:pedrohenriqueandrade2712@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-red?style=flat-square&logo=gmail&logoColor=white"></a>
