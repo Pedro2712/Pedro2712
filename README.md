@@ -84,4 +84,5 @@ I am passionate about Computer Engineering, with a solid background in technolog
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dynamic Quote"/>
 </div>
 
-![snake gif](https://github.com/Pedro2712/Pedro2712/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/Pedro2712/Pedro2712/blob/output/github-contribution-grid-snake.svg?theme=light)
+
