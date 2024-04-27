@@ -5,14 +5,13 @@
 </p>
 
 ### 🧐 About Me:
-I am passionate about Data Science, with a solid background in Economics and experience as a Business Analyst. Currently, I am on a journey to deepen my skills in data analysis and machine learning, aiming to transform complex data into powerful insights.
+I am passionate about Computer Engineering, with a solid background in technology and experience in software development. Currently, I am on a journey to deepen my skills in programming and system design, aiming to develop innovative solutions and efficient systems.
 
-- 🔭 I am currently working on personal Data Science projects.
-- 🌱 Learning more about advanced machine learning algorithms and deep learning techniques.
-- 👯 Looking to collaborate on open source projects related to data science.
-- 💬 Ask me about Python, data analysis, data visualizations, and anything tech-related!
+- 🌱 I'm currently learning more about advanced reinforcement learning and deep learning techniques.
+- 👯 Looking to collaborate on open source projects.
+- 💬 Ask me about Python, programming challenges, system architecture, and anything tech-related!
 - 😄 Pronouns: He/Him.
-- ⚡ Fun fact: I am a big fan of strategy games and puzzles.
+- ⚡ Fun fact: I'm a big fan of strategy games and puzzles.
 
 # ⚡ Technologies and Tools:
 <p align="center">
