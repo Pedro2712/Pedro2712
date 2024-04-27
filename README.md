@@ -25,7 +25,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/pedro-henrique-andrade-124357207/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin"></a>
-  <a href="mailto:pedroa3@al.insper.edu.br"><img alt="Email" src="https://img.shields.io/badge/Email-red?style=flat-square&logo=gmail&logoColor=white"></a>
+  <a href="https://mail.google.com/mail/u/0/?fs=1&to=pedrohenriqueandrade2712@gmail.com&tf=cm"><img alt="Email" src="https://img.shields.io/badge/Email-red?style=flat-square&logo=gmail&logoColor=white"></a>
 </p>
 
 <div align="center">
