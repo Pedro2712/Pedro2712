@@ -1,4 +1,4 @@
-![Image](URL-da-imagem)
+![Image](https://github.com/Pedro2712/Pedro2712/blob/main/image.webp)
 
 # Hi! 👋 I'm Pedro, a Computer Engineering Student at INSPER
 <p align="center">
