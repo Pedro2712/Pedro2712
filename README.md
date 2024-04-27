@@ -4,7 +4,7 @@
   <a href="mailto:pedrohenriqueandrade2712@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-red?style=flat-square&logo=gmail&logoColor=white"></a>
 </p>
 
-### 🧐 About Me:
+### 🧐 About Me
 I am passionate about Computer Engineering, with a solid background in technology and experience in software development. Currently, I am on a journey to deepen my skills in programming and system design, aiming to develop innovative solutions and efficient systems.
 
 - 🌱 I'm currently learning more about advanced reinforcement learning and deep learning techniques.
@@ -13,7 +13,7 @@ I am passionate about Computer Engineering, with a solid background in technolog
 - 😄 Pronouns: He/Him.
 - ⚡ Fun fact: I'm a big fan of strategy games and puzzles.
 
-# ⚡ Technologies and Tools:
+# ⚡ Technologies and Tools
 
 <p align="center">
   <img src="https://img.shields.io/badge/-MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=black">
