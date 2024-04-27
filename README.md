@@ -1,3 +1,5 @@
+![Image](URL-da-imagem)
+
 # Hi! 👋 I'm Pedro, a Computer Engineering Student at INSPER
 <p align="center">
   <a href="https://www.linkedin.com/in/pedro-henrique-andrade-124357207/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin"></a>
