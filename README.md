@@ -14,7 +14,7 @@ I am passionate about Data Science, with a solid background in Economics and exp
 - 😄 Pronouns: He/Him.
 - ⚡ Fun fact: I am a big fan of strategy games and puzzles.
 
-# ⚡ Tecnologias e Ferramentas:
+# ⚡ Technologies and Tools:
 <p align="center">
   <img src="https://img.shields.io/badge/-Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white">
   <img src="https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
