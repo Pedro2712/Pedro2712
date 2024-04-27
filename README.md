@@ -1,4 +1,4 @@
-# Hi! 👋 I'm Pedro and I'm a Computer Engineering Student at INSPER 
+# Hi! 👋 I'm Pedro, a Computer Engineering Student at INSPER
 <p align="center">
   <a href="https://www.linkedin.com/in/pedro-henrique-andrade-124357207/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin"></a>
   <a href="mailto:pedrohenriqueandrade2712@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-red?style=flat-square&logo=gmail&logoColor=white"></a>
